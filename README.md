@@ -11,6 +11,6 @@ The index formula was devised to gain a comprehensive understanding of the struc
     B downgraded from (1/3 to 28%);
     C upgraded from (1/3 to 57%) 
     So even if countries A and B kept a good level, country C showed even more outstanding growth than A and B.
-2. Mathematical expectation formula inspired me to multiply fractions (trade, investment) by certain weighting coefficients, after that they were summed into one value. But the most main focus is the percentage structure of outputed value, not just one number.
+2. Mathematical expectation formula inspired me to multiply fractions (trade, investment) by certain weighting coefficients, after that they were summed into one value. But the most main focus is the percentage structure of outputed value, not just one number. (shown in pics/1_final_index and df_index columns - especially decade_1 and decade_2)
 
 Dataset link: https://docs.google.com/spreadsheets/d/1eD4JKBmUovQHFA-oWWbfAxs4Ai4j5AS5/edit?usp=sharing&ouid=105518727383442622983&rtpof=true&sd=true
